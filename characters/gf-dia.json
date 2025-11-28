@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Idle"
+		},
+		{
+			"offsets": [
+				25,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF Left"
+		},
+		{
+			"offsets": [
+				49,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down"
+		},
+		{
+			"offsets": [
+				20,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up"
+		},
+		{
+			"offsets": [
+				-45,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right"
+		},
+		{
+			"offsets": [
+				-5,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "GF Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "GF Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "GF Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				633
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "GF Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		155,
+		0,
+		33
+	],
+	"camera_position": [
+		-140,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

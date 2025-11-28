@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				401,
+				540
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Crazy Dia Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				550
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Crazy Dia Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				560
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Crazy Dia Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				540
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Crazy Dia Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				442,
+				534
+			],
+			"anim": "Shoot",
+			"fps": 24,
+			"name": "Crazy Dia Shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				540
+			],
+			"anim": "Load",
+			"fps": 24,
+			"name": "Crazy Dia Load",
+			"indices": []
+		},
+		{
+			"offsets": [
+				400,
+				540
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Crazy Dia Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dia/crazy dia",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dia/icon-crazy-dia",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		27,
+		55
+	],
+	"camera_position": [
+		-600,
+		-410
+	],
+	"sing_duration": 6.1,
+	"scale": 0.44
+}

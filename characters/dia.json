@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				400,
+				540
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Dia Idle"
+		},
+		{
+			"offsets": [
+				400,
+				540
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dia Left"
+		},
+		{
+			"offsets": [
+				410,
+				550
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dia Down"
+		},
+		{
+			"offsets": [
+				400,
+				540
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dia Up"
+		},
+		{
+			"offsets": [
+				400,
+				540
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dia Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dia",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-320,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

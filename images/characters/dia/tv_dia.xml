@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tv_dia.png">
+<SubTexture name="Dia idle0000" x="0" y="920" width="739" height="910" frameX="-252" frameY="-68" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia idle0001" x="1478" y="920" width="740" height="909" frameX="-259" frameY="-72" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia idle0002" x="1565" y="1830" width="742" height="886" frameX="-294" frameY="-102" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia idle0003" x="791" y="1830" width="774" height="887" frameX="-266" frameY="-105" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia idle0004" x="3082" y="0" width="778" height="886" frameX="-259" frameY="-101" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia idle0005" x="2342" y="0" width="740" height="909" frameX="-259" frameY="-72" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia idle0006" x="739" y="920" width="739" height="910" frameX="-252" frameY="-68" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia left0000" x="0" y="2733" width="820" height="858" frameX="-164" frameY="-62" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia left0001" x="820" y="2733" width="799" height="856" frameX="-179" frameY="-64" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia left0002" x="1619" y="2733" width="823" height="847" frameX="-177" frameY="-72" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia left0003" x="2442" y="2733" width="838" height="845" frameX="-169" frameY="-73" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia down0000" x="0" y="3591" width="849" height="778" frameX="-247" frameY="-195" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia down0001" x="849" y="3591" width="840" height="775" frameX="-264" frameY="-201" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia down0002" x="1689" y="3591" width="849" height="773" frameX="-255" frameY="-203" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia down0003" x="2538" y="3591" width="839" height="772" frameX="-250" frameY="-205" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia up0000" x="1563" y="0" width="779" height="914" frameX="-159" frameY="-80" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia up0001" x="0" y="0" width="781" height="920" frameX="-152" frameY="-76" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia up0002" x="781" y="0" width="782" height="916" frameX="-150" frameY="-86" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia up0003" x="0" y="1830" width="791" height="903" frameX="-139" frameY="-99" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia right0000" x="3860" y="2358" width="781" height="761" frameX="-224" frameY="-223" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia right0001" x="3860" y="1578" width="806" height="780" frameX="-221" frameY="-223" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia right0002" x="3860" y="790" width="831" height="788" frameX="-207" frameY="-217" frameWidth="1280" frameHeight="1064" />
+<SubTexture name="Dia right0003" x="3860" y="0" width="835" height="790" frameX="-206" frameY="-198" frameWidth="1280" frameHeight="1064" />
+</TextureAtlas>

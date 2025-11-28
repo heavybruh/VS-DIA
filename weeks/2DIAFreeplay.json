@@ -1,0 +1,59 @@
+{
+	"storyName": "dia and corpse, beeeest frieeends :d",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "1DIAStory",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"inanimate",
+			"corpse/icon-corpse",
+			[
+				220,
+				194,
+				79
+			]
+		],
+		[
+			"Contribution",
+			"dia/icon-dia",
+			[
+				53,
+				121,
+				196
+			]
+		],
+		[
+			"final-showdown",
+			"dia/icon-crazy-dia",
+			[
+				221,
+				28,
+				56
+			]
+		],
+		[
+			"Trashed",
+			"corpse/icon-trashed",
+			[
+				63,
+				63,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,8 @@
+Value 1 - Color hex code
+Example: 
+FFFFFF Is the Hex code for White
+And 000000 is the Hex code for Black :D
+Lowercase or not it will stil work
+--------------------------------------------------
+Value 2 - is how long you want it there (In miliseconds)
+I think im not sure, its how ive been using timers

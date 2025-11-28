@@ -1,0 +1,32 @@
+{
+	"storyName": "No going back",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "dia",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"settling-mist",
+			"dia",
+			[
+				53,
+				121,
+				196
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"Menu_gf-dia",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Dia"
+}

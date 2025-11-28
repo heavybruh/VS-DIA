@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF_Menu.png">
+<SubTexture name="GF_Menu Normal0000" x="0" y="0" width="1343" height="1631" frameX="-143" frameY="-205" frameWidth="1836" frameHeight="1836" />
+<SubTexture name="GF_Menu Press0000" x="1343" y="0" width="2075" height="1467" frameX="-54" frameY="-369" frameWidth="2185" frameHeight="1836" />
+</TextureAtlas>

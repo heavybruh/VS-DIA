@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GFBack.png">
+<SubTexture name="GFBack Idle0000" x="0" y="3034" width="742" height="717" frameX="-253" frameY="-425" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0001" x="2129" y="2302" width="710" height="728" frameX="-243" frameY="-437" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0002" x="641" y="1557" width="716" height="738" frameX="-237" frameY="-437" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack idle0000" x="0" y="2302" width="732" height="732" frameX="-243" frameY="-434" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0003" x="0" y="3034" width="742" height="717" frameX="-253" frameY="-425" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0004" x="742" y="3034" width="757" height="715" frameX="-281" frameY="-453" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0005" x="1499" y="3034" width="746" height="708" frameX="-295" frameY="-465" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0006" x="3136" y="0" width="739" height="722" frameX="-281" frameY="-446" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Idle0007" x="732" y="2302" width="742" height="732" frameX="-253" frameY="-425" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Down0000" x="3136" y="2141" width="586" height="694" frameX="-414" frameY="-472" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Down0001" x="2486" y="1460" width="588" height="694" frameX="-412" frameY="-478" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Down0002" x="3136" y="1435" width="583" height="706" frameX="-408" frameY="-454" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Down0003" x="3136" y="722" width="589" height="713" frameX="-406" frameY="-425" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Up0000" x="658" y="783" width="620" height="764" frameX="-375" frameY="-374" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Up0001" x="1850" y="0" width="636" height="762" frameX="-363" frameY="-375" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Up0002" x="0" y="1557" width="641" height="745" frameX="-355" frameY="-394" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Up0003" x="1474" y="2302" width="655" height="731" frameX="-342" frameY="-423" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Right0000" x="1357" y="1557" width="599" height="734" frameX="-412" frameY="-437" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Right0001" x="2486" y="734" width="622" height="726" frameX="-420" frameY="-440" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Right0002" x="1850" y="762" width="632" height="750" frameX="-396" frameY="-423" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Right0003" x="2486" y="0" width="650" height="734" frameX="-357" frameY="-423" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Left0000" x="1223" y="0" width="627" height="777" frameX="-300" frameY="-426" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Left0001" x="611" y="0" width="612" height="778" frameX="-289" frameY="-424" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Left0002" x="0" y="0" width="611" height="783" frameX="-314" frameY="-420" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="GFBack Left0003" x="0" y="783" width="658" height="774" frameX="-328" frameY="-428" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

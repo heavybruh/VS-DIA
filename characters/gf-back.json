@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GFBack Idle"
+		},
+		{
+			"offsets": [
+				457,
+				308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GFBack Left"
+		},
+		{
+			"offsets": [
+				410,
+				293
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GFBack Down"
+		},
+		{
+			"offsets": [
+				379,
+				323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GFBack Right"
+		},
+		{
+			"offsets": [
+				420,
+				342
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GFBack Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFBack",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		0,
+		33
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
